@@ -1,16 +1,15 @@
-## Hi there 👋
+# Francia Ospina
 
-<!--
-**francia-frio/francia-frio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Creative Director + AI · Founder of FRIONINA, a boutique creative and strategic agency based in Valencia, Spain.
 
-Here are some ideas to get you started:
+21 years building memorable brands. I work where creativity, strategy, technology and AI meet: branding, web design, digital marketing, automation and AI-powered content.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Partner to startups, software companies and creative agencies.
+
+## Let's talk
+
+Web: https://www.frionina.com
+
+Email: francia@frionina.com
+
+Instagram: https://www.instagram.com/fran.ospinaok
